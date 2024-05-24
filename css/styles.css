@@ -86,3 +86,21 @@ main>.tagline {
 	font-weight: 400;
 	font-style: normal;
 }
+
+.intro {
+	border: 10px solid #8551C0;
+	padding: 10px;
+	border-radius: 50px 50px 10px 10px;
+}
+
+.tagline {
+	border: 10px solid#515FC0;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.icons-social {
+	border: 10px solid #C051B8;
+	padding: 10px;
+	border-radius: 10px 10px 50px 50px;
+}
